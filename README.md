@@ -1,4 +1,4 @@
-## 灯得@GitHub.COM
+## 灯得@GitHub
 
 本页面使用 GitHub Pages 创建，在大多数情况下，本页面都能被快速无阻碍地访问。
 
